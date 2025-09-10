@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Url Shortner Applicatiom
 
 A simple Streamlit app template for you to modify!
 
